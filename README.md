@@ -1,17 +1,15 @@
-I made htis with a clanker lul
-
 # Enigmatic Addons 
 
 **Current Version:** 1.2.6
 
-**Minecraft Version:** 1.20.1
+**Minecraft Version:** 1.21.1
 
-**Forge Version:** 47.1.0 or later.
+**Forge Version:** 51.0.16 or later
 
 **Dependencies:** 
-- **Enigmatic Legacy** 2.30.1 or later;
-- CuriosAPI-Forge 1.20.1-5.9.0 or later;
-- Patchouli 1.20.1-84 or later; 
-- Caelus API 1.20-3.1.0 or later.
+- **Enigmatic Legacy** (latest compatible version);
+- CuriosAPI-Forge 1.21.1-5.11.0 or later;
+- Patchouli 1.21.1 or later; 
+- Caelus API 1.21-3.2.0 or later.
 
 Addons for Enigmatic Legacy. Provide more things to solve the problem.
